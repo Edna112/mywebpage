@@ -1,0 +1,34 @@
+[data-testid="slackUserName"] {
+    font-size: 24px;
+    color:rgb(45, 71, 71);
+    text-align: center;
+}
+[data-testid="slackDisplayImage"] {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+    
+}
+[data-testid="currentDayOfTheWeek"] {
+    font-size: 18px;
+    color: black;
+    text-align: center;
+}
+[data-testid="currentUTCTime"] {
+    font-size: 18px;
+    color: black;
+    text-align: center;
+}
+[data-testid="myTrack"] {
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+[data-testid="githubURL"] {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+}
